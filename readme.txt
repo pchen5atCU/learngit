@@ -5,4 +5,3 @@ Git is good.
 Creating a new branch is quick and also simple.
 dev merge
 ff merge
-ooo
