@@ -83,7 +83,6 @@ for i in range(10):
 
 	[Go](http://www.youtube.com )
 
-	![im](https://upload.wikimedia.org/wikipedia/commons/1/13/Lunar_eclipse_October_8_2014_California_Alfredo_Garcia_Jr_mideclipse.JPG)
 
 - 2
 - 3
